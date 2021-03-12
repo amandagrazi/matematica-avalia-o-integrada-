@@ -1,0 +1,47 @@
+h1 {
+     color: white;
+     text-align: center;
+     font-size: 44px;
+     font-family: 'EB Garamond', serif;
+    
+
+ }
+
+ #menu ul {
+     margin: px;
+     background-color: rgba(160, 75, 245, 0.7);
+     list-style: none;
+
+ }
+
+ #menu ul li {
+
+     display: inline;
+
+ }
+
+
+ #menu ul li a {
+     padding: 10px;
+     10px;
+     display: inline-block;
+     color: white;
+     font-size: 45px;
+
+ }
+
+
+ a {
+
+
+     text-decoration: none;
+ }
+
+ body {
+
+     background-image: url(img/fundo0.jpg);
+     background-attachment: scroll;
+     background-size: 1500px;
+
+
+ }
